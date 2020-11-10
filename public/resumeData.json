@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name":"Anton Averin",
+    "occupation":"Javascript Fullstack Developer",
+    "description":"specializing in front and backend development (MERN).",
+    "image":"1.jpg",
+    "bio":"Always staying tuned in with the latest trends and practices in software development. Clean code believer and follower. Open for remote and relocation options. In my free time I like to travel by car with my family.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "drv161@gmail.com",
+    "phone": "+7-985-0977847",
+    "address":{
+      "city":"Moscow,",
+      "state":"Russia"
+    },
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/antaverin",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/anton-averin/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/k1dman",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Professional University of Management",
+        "degree":"Company/Organization Management",
+        "graduated":"May 2009",
+        "description":"During my studies at University, I learned the basics of teamwork, people management and achieving goals. I successfully apply the acquired knowledge in my current field, thanks to which I successfully communicate and interact with the team at work."
+      }
+    ],
+    "work":[
+      {
+        "company":"Skillcrucial.com",
+        "title":"Javascript Developer",
+        "years":"November 2017 - Present",
+        "description":"Development on front-end and back-end programming. Setting up and using Webpack, Unit and E2E testing, Routing, REST API."
+      }
+    ],
+    "skills":[
+      {
+        "name":"ReactJS",
+        "level":"70%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"65%"
+      },
+      {
+        "name":"HTML5",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"60%"
+      },
+      {
+        "name":"Puppeteer",
+        "level":"60%"
+      },
+      {
+        "name":"Tailwind",
+        "level":"80%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
